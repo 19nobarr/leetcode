@@ -4,5 +4,5 @@ project(leetcode)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(leetcode
-        solutions/problem_2567.cpp
+        solutions/problem_3331.cpp
 )
